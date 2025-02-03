@@ -1,0 +1,6 @@
+# 가상환경
+/map
+
+# 주요 코드
+/addr/index.py
+/addr/output.txt

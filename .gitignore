@@ -1,6 +1,13 @@
 # 가상환경
 /map
 
-# 주요 코드
-/addr/index.py
-/addr/output.txt
+# addr
+addr/index.py
+addr/output.txt
+addr/input.txt
+
+# data
+data/서버위경도통합본(완성).xlsx
+data/위도경도_오류_데이터.xlsx
+data/주소,좌표변환.xlsx
+data/sqlconversion.txt
